@@ -16,8 +16,6 @@
 ## Description
 The new type of HAN!
 <br>
-With project (R)Evolution you can enjoy the features of a semi-tethered jailbreak on your PS3.
-<br>
 We aim to provide the full support for homebrew apps and homebrew games on the PS3 System for new developers to come and develop new apps and games.
 
 ### Versions (Stable Releases)
