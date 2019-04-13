@@ -16,9 +16,11 @@
 ## Description
 The new type of HAN!
 <br>
-With project (R)Evolution you can enjoy the features of a semi-tethered jailbreak on your PS3.
+We wanted a new type of mod that look like it was part of the system and totally offline. So, we created (R)Evolution.
 <br>
-We aim to provide the full support for homebrew apps and homebrew games on the PS3 System for new developers to come and develop new apps and games.
+(R)Evolution is an XMB Mod that makes HAN to feel like its part of the system.
+<br>
+We also aim to provide the full support for homebrew apps and homebrew games on the PS3 System for new developers to come and develop new apps and games.
 
 ### Versions (Stable Releases)
 + [1.0.0](https://github.com/DigitalMorpheus/revolutionproject/stable)
