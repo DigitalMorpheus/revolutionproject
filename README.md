@@ -40,25 +40,14 @@ We also aim to provide the full support for homebrew apps and homebrew games on 
     + Daily Use
     + Stable
 ## Downloads
-+ [Download - Unstable](https://github.com/DigitalMorpheus/revolutionproject/tree/master/unstable/1.00)
++ [Download - Unstable](https://github.com/DigitalMorpheus/revolutionproject/raw/master/(R)Evolution_Installer.pkg)
 
 
 ## How to install
-+ Install 4.84 OFW
-+ Install 4.84 HFW
-+ Install HAN
-+ Go to the PS3 WebBrowser and set this page has home (http://ps3xploit.com/hfw/flash_xml_replacer/flash_xml_replacer.html)
-+ Clear all Cookies, Search History, Cache and Authentification History
-+ Close WebBrowser
-+ Open WebBrowser
-+ Flash category_game.xml, category_psn.xml, category_tv.xml, category_user.xml, category_user_login.xml following PS3XPLOIT Instructions
-+ Go to the PS3 WebBrowser and set this page has home (http://ps3xploit.com/hfw/han/han_enabler.html)
-+ Clear all Cookies, Search History, Cache and Authentification History
-+ Close WebBrowser
-+ Open WebBrowser
++ Make sure you already have installed 4.84 HFW
 + Enable HAN
-+ Install Revo_System.pkg from the USB
-+ Reboot PS3
++ Install (R)Evolution_Installer.pkg from the USB
++ Follow steps
 
 ## Thanks
 ### The PS3Xploit Team
@@ -70,6 +59,7 @@ We also aim to provide the full support for homebrew apps and homebrew games on 
 ### lmn7
 + Offline HAN enabler
 + Offline HAN SoftReboot
++ Offline HAN + dev_flash mount
 
 ### ZenJB
 + The concept
