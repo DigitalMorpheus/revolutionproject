@@ -40,7 +40,7 @@ We also aim to provide the full support for homebrew apps and homebrew games on 
     + Daily Use
     + Stable
 ## Downloads
-+ [Download - Unstable](https://github.com/DigitalMorpheus/revolutionproject/raw/master/(R)Evolution_Installer.pkg)
++ [Download - Unstable](https://github.com/DigitalMorpheus/revolutionproject/raw/master/(R)Evolution_Installer_unstable.pkg)
 
 
 ## How to install
