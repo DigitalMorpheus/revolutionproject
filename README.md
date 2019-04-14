@@ -82,6 +82,7 @@ To update from 1.00 (unstable) to 2.00 (unstable), Go to Game -> Game Data Utili
 + Improve XMB speed (compared with OFW)
 + Custom Emoji
 + New XMB Design
++ Modded Comments
 
 ## Screenshots
 Soon
