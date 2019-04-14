@@ -8,8 +8,8 @@
 - [Versions](#versions)
 - [Version Info](#version-info)
 - [Downloads](#downloads)
-- [How to install (2.00)](#how-to-install-(2.00))
-- [How to uninstall (2.00)](#how-to-uninstall-(2.00))
+- [How to install](#how-to-install)
+- [How to uninstall](#how-to-uninstall)
 - [Features](#features)
 - [To Do List](#to-do-list)
 - [ScreenShots](#screenshots)
@@ -56,7 +56,8 @@ To update from 1.00 to 2.00, Go to Game -> Game Data Utility and delete all (R)E
 + [Download - Unstable](https://github.com/DigitalMorpheus/revolutionproject/raw/master/(R)Evolution_Installer_unstable.pkg)
 
 
-## How to install (2.00)
+## How to install
+### Version 2.00
 + Make sure you already have installed 4.84 HFW and HAN
 + [Download](https://github.com/DigitalMorpheus/revolutionproject/raw/master/(R)Evolution_Installer_unstable.pkg) the installer and put in the root of your usb
 + Enable HAN
@@ -65,7 +66,8 @@ To update from 1.00 to 2.00, Go to Game -> Game Data Utility and delete all (R)E
 + Go to Game -> Game Data Utility and delete the (R)Evolution Installer
 + Restart the PS3
 
-## How to uninstall (2.00)
+## How to uninstall
+### Version 2.00
 + Make sure you already have installed 4.84 HFW, HAN and (R)Evolution
 + Go to Settings -> Uninstall
 + Follow steps
