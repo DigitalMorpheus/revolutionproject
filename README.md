@@ -75,6 +75,8 @@ To update from 1.00 to 2.00, Go to Game -> Game Data Utility and delete all (R)E
 + Custom XMB Icons
 + Download PKG from WebBrowser
 + Improve XMB speed (compared with OFW)
++ Custom Emoji
++ New XMB Design
 
 ## Screenshots
 Soon
