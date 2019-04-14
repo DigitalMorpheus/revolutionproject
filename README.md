@@ -48,7 +48,7 @@ To update from 1.00 to 2.00, Go to Game -> Game Data Utility and delete all (R)E
     + Constains latest Bug Fixes
     + Can have broken features
     + Not for daily use
-+ [Stable](https://github.com/DigitalMorpheus/revolutionproject/tree/master/stable/1.00)
++ [Stable](https://github.com/DigitalMorpheus/revolutionproject/tree/master/stable/)
     + Daily Use
     + Stable
 ## Downloads
@@ -60,7 +60,7 @@ To update from 1.00 to 2.00, Go to Game -> Game Data Utility and delete all (R)E
 + [Download](https://github.com/DigitalMorpheus/revolutionproject/raw/master/(R)Evolution_Installer_unstable.pkg) the installer and put in the root of your usb
 + Enable HAN
 + Install (R)Evolution_Installer_unstable.pkg from the USB
-+ Open 
++ Open installer and follow the steps
 + Go to Game -> Game Data Utility and delete the (R)Evolution Installer
 + Restart the PS3
 
