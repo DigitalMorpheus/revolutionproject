@@ -9,6 +9,10 @@
 - [Version Info](#version-info)
 - [Downloads](#downloads)
 - [How to install](#how-to-install)
+- [How to uninstall](#how-to-uninstall)
+- [To Do List](#to-do-list)
+- [ScreenShots](#screenshots)
+- [Discord](#discord)
 - [Thanks](#thanks)
 - [Disclaimer](#disclaimer)
 <!-- /TOC -->
@@ -23,14 +27,22 @@ We wanted a new type of mod that look like it was part of the system and totally
 We also aim to provide the full support for homebrew apps and homebrew games on the PS3 System for new developers to come and develop new apps and games.
 
 ### Versions (Stable Releases)
-+ [1.0.0](https://github.com/DigitalMorpheus/revolutionproject/stable)
+
+
+### Versions (Unstable Releases)
++ [1.00](https://github.com/DigitalMorpheus/revolutionproject/stable)
     + User Menu
         + Added Restart Function
     + HAN Settings
         + Added Custom Package Enabler
         + Added Update Funtion
         + Added About Information
++ [2.00](https://github.com/DigitalMorpheus/revolutionproject/stable)
+    + HAN Settings
+        + Added Uninstall Funtion
+<br>
 
+To update from 1.00 to 2.00, Go to Game -> Game Data Utility and delete all (R)Evolution related packages 
 ### Version Info
 + [Unstable](https://github.com/DigitalMorpheus/revolutionproject/unstable)
     + Constains latest Bug Fixes
@@ -43,11 +55,28 @@ We also aim to provide the full support for homebrew apps and homebrew games on 
 + [Download - Unstable](https://github.com/DigitalMorpheus/revolutionproject/raw/master/(R)Evolution_Installer_unstable.pkg)
 
 
-## How to install
-+ Make sure you already have installed 4.84 HFW
+## How to install (2.00)
++ Make sure you already have installed 4.84 HFW and HAN
++ [Download](https://github.com/DigitalMorpheus/revolutionproject/raw/master/(R)Evolution_Installer_unstable.pkg) the installer and put in the root of your usb
 + Enable HAN
-+ Install (R)Evolution_Installer.pkg from the USB
++ Install (R)Evolution_Installer_unstable.pkg from the USB
++ Open 
++ Go to Game -> Game Data Utility and delete the (R)Evolution Installer
++ Restart the PS3
+
+## How to uninstall (2.00)
++ Enable HAN
++ Install (R)Evolution_Uninstaller_unstable.pkg from the USB
 + Follow steps
++ Go to Game -> Game Data Utility and delete the (R)Evolution Installer
++ Restart the PS3
+
+## To Do List
++ Custom Store Slots
++ Custom Tools Slots
+
+## Screenshots
+Soon
 
 ## Thanks
 ### The PS3Xploit Team
@@ -64,7 +93,6 @@ We also aim to provide the full support for homebrew apps and homebrew games on 
 ### ZenJB
 + The concept
 + XMB Remote Interaction Technique
-
 
 ## Disclaimer
 This was develop and tested using a PS3 4k Model (4.84 HFW + HAN)
