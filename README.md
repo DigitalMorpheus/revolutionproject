@@ -30,14 +30,14 @@ We also aim to provide the full support for homebrew apps and homebrew games on 
 
 
 ### Versions (Unstable Releases)
-+ [1.00](https://github.com/DigitalMorpheus/revolutionproject/unstable)
++ [1.00](https://github.com/DigitalMorpheus/revolutionproject/tree/master/unstable/1.00)
     + User Menu
         + Added Restart Function
     + HAN Settings
         + Added Custom Package Enabler
         + Added Update Funtion
         + Added About Information
-+ [2.00](https://github.com/DigitalMorpheus/revolutionproject/unstable)
++ [2.00](https://github.com/DigitalMorpheus/revolutionproject/tree/master/unstable/2.00)
     + HAN Settings
         + Added Uninstall Funtion
 <br>
