@@ -4,13 +4,13 @@
 <!-- TOC -->
 [(R)Evolution](#revo-projectp)
 - [Table of contents](#table-of-contents)
-- [Description](#description)        
+- [Description](#description)  
+- [Features](#features)      
 - [Versions](#versions)
 - [Version Info](#version-info)
 - [Downloads](#downloads)
 - [How to install](#how-to-install)
 - [How to uninstall](#how-to-uninstall)
-- [Features](#features)
 - [To Do List](#to-do-list)
 - [ScreenShots](#screenshots)
 - [Discord](#discord)
@@ -27,23 +27,24 @@ We wanted a new type of mod that look like it was part of the system and totally
 <br>
 We also aim to provide the full support for homebrew apps and homebrew games on the PS3 System for new developers to come and develop new apps and games.
 
-### Versions (Stable Releases)
+## Features
+### Lastest Version
++ Install Custom Packages
++ Restart PS3
++ Update (R)Evolution
++ Uninstall (R)Evolution
++ Custom Store Slots
 
+### Versions (Stable Releases)
++ There is no stable release available
 
 ### Versions (Unstable Releases)
 + [1.00](https://github.com/DigitalMorpheus/revolutionproject/tree/master/unstable/1.00)
-    + User Menu
-        + Added Restart Function
-    + HAN Settings
-        + Added Custom Package Enabler
-        + Added Update Funtion
-        + Added About Information
 + [2.00](https://github.com/DigitalMorpheus/revolutionproject/tree/master/unstable/2.00)
-    + HAN Settings
-        + Added Uninstall Funtion
 <br>
 
-To update from 1.00 to 2.00, Go to Game -> Game Data Utility and delete all (R)Evolution related packages 
+To update from 1.00 (unstable) to 2.00 (unstable), Go to Game -> Game Data Utility and delete all (R)Evolution related packages 
+
 ### Version Info
 + [Unstable](https://github.com/DigitalMorpheus/revolutionproject/tree/master/unstable)
     + Constains latest Bug Fixes
@@ -52,6 +53,8 @@ To update from 1.00 to 2.00, Go to Game -> Game Data Utility and delete all (R)E
 + [Stable](https://github.com/DigitalMorpheus/revolutionproject/tree/master/stable/)
     + Daily Use
     + Stable
+
+
 ## Downloads
 + [Download - Unstable](https://github.com/DigitalMorpheus/revolutionproject/raw/master/(R)Evolution_Installer_unstable.pkg)
 
@@ -71,13 +74,6 @@ To update from 1.00 to 2.00, Go to Game -> Game Data Utility and delete all (R)E
 + Make sure you already have installed 4.84 HFW, HAN and (R)Evolution
 + Go to Settings -> Uninstall
 + Follow steps
-
-## Features
-+ Install Custom Packages
-+ Restart PS3
-+ Update (R)Evolution
-+ Uninstall (R)Evolution
-+ Custom Store Slots
 
 ## To Do List
 + Custom Tools Slots
