@@ -75,9 +75,9 @@ To update from 1.00 to 2.00, Go to Game -> Game Data Utility and delete all (R)E
 + Restart PS3
 + Update (R)Evolution
 + Uninstall (R)Evolution
++ Custom Store Slots
 
 ## To Do List
-+ Custom Store Slots
 + Custom Tools Slots
 + Custom XMB Icons
 + Download PKG from WebBrowser
