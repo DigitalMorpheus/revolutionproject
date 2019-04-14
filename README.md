@@ -104,9 +104,14 @@ Soon
 + The concept
 + XMB Remote Interaction Technique
 
+<br>
+
 ## Disclaimer
 This was develop and tested using a PS3 4k Model (4.84 HFW + HAN)
 <br>
 Use it at your own risk
 <br>
+## A big thanks to many developers for their wonderful ideas and concepts. Without them, this project is not the same.
+
+
 ### You are only allowed to run homebrew apps, homebrew games, and games you have bought. Any kind of piracy is not allowed.
