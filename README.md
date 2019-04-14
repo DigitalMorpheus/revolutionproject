@@ -44,11 +44,11 @@ We also aim to provide the full support for homebrew apps and homebrew games on 
 
 To update from 1.00 to 2.00, Go to Game -> Game Data Utility and delete all (R)Evolution related packages 
 ### Version Info
-+ [Unstable](https://github.com/DigitalMorpheus/revolutionproject/unstable)
++ [Unstable](https://github.com/DigitalMorpheus/revolutionproject/tree/master/unstable)
     + Constains latest Bug Fixes
     + Can have broken features
     + Not for daily use
-+ [Stable](https://github.com/DigitalMorpheus/revolutionproject/stable)
++ [Stable](https://github.com/DigitalMorpheus/revolutionproject/tree/master/stable/1.00)
     + Daily Use
     + Stable
 ## Downloads
