@@ -10,6 +10,7 @@
 - [Downloads](#downloads)
 - [How to install](#how-to-install)
 - [How to uninstall](#how-to-uninstall)
+- [Features](#features)
 - [To Do List](#to-do-list)
 - [ScreenShots](#screenshots)
 - [Discord](#discord)
