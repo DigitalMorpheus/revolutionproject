@@ -50,6 +50,7 @@ To update from 1.00 (unstable) to 2.00 (unstable), Go to Game -> Game Data Utili
     + Constains latest Bug Fixes
     + Can have broken features
     + Not for daily use
+    + Lastest Features
 + [Stable](https://github.com/DigitalMorpheus/revolutionproject/tree/master/stable/)
     + Daily Use
     + Stable
