@@ -65,15 +65,14 @@ To update from 1.00 to 2.00, Go to Game -> Game Data Utility and delete all (R)E
 + Restart the PS3
 
 ## How to uninstall (2.00)
-+ Enable HAN
-+ Install (R)Evolution_Uninstaller_unstable.pkg from the USB
++ Make sure you already have installed 4.84 HFW, HAN and (R)Evolution
++ Go to Settings -> Uninstall
 + Follow steps
-+ Go to Game -> Game Data Utility and delete the (R)Evolution Installer
-+ Restart the PS3
 
 ## To Do List
 + Custom Store Slots
 + Custom Tools Slots
++ Custom XMB Icons
 
 ## Screenshots
 Soon
