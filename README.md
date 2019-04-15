@@ -28,7 +28,7 @@ We wanted a new type of mod that look like it was part of the system and totally
 We also aim to provide the full support for homebrew apps and homebrew games on the PS3 System for new developers to come and develop new apps and games.
 
 ## Features
-### Lastest Version
+### Lastest Version (2.00)
 + Install Custom Packages
 + Restart PS3
 + Update (R)Evolution
@@ -39,7 +39,7 @@ We also aim to provide the full support for homebrew apps and homebrew games on 
 + There is no stable release available
 
 ### Versions (Unstable Releases)
-+ [1.00](https://github.com/DigitalMorpheus/revolutionproject/tree/master/unstable/1.00)
++ [1.00](https://github.com/DigitalMorpheus/revolutionproject/tree/master/unstable/1.00) (Discontinued)
 + [2.00](https://github.com/DigitalMorpheus/revolutionproject/tree/master/unstable/2.00)
 <br>
 
