@@ -31,7 +31,7 @@ We also aim to provide the full support for homebrew apps and homebrew games on 
 ### Lastest Version (2.00)
 + Install Custom Packages
 + Restart PS3
-+ Update (R)Evolution
++ Update (R)Evolution (Showing the lastest version date)
 + Uninstall (R)Evolution
 + Custom Store Slots
 
