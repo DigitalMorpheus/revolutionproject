@@ -11,6 +11,7 @@
 - [Downloads](#downloads)
 - [How to install](#how-to-install)
 - [How to uninstall](#how-to-uninstall)
+- [Changelog](#changelog)
 - [To Do List](#to-do-list)
 - [ScreenShots](#screenshots)
 - [Discord](#discord)
@@ -19,7 +20,7 @@
 <!-- /TOC -->
 
 ## Description
-The new type of HAN!
+The new type of XMB!
 <br>
 We wanted a new type of mod that look like it was part of the system and totally offline. So, we created (R)Evolution.
 <br>
@@ -77,7 +78,8 @@ To update from 1.00 (unstable) to 2.00 (unstable), Go to Game -> Game Data Utili
 + Follow steps
 
 ## To Do List
-+ Mods / Stores Persistent between updates
++ HAN Settings on other category instead of TV (It is on TV category temporary, the original idea was to add it to Settings Cattegory)
++ Mods / Stores don't get deleted if (R)Evolution is updated
 + Custom Tool Category with slots for HAN related tools( example HAN Toolbox)
 + Custom XMB Icons
 + Download PKG from WebBrowser
@@ -85,6 +87,20 @@ To update from 1.00 (unstable) to 2.00 (unstable), Go to Game -> Game Data Utili
 + Custom Emoji
 + New XMB Design
 + Modded Comments
+
+## Changelog
+### 1.00
++ Install Custom Packages
++ Restart PS3
++ Update (R)Evolution
++ Uninstall (R)Evolution
++ Custom Store Slots under PlaystationNetwork Category
+### 2.00
++ New Update System
++ Renamed From Custom Packages to Enable HAN
++ Improved Custom Store Slots
++ Added update icon
++ Updated About Information Sub Menu
 
 ## Screenshots
 Soon
