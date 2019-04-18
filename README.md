@@ -113,13 +113,14 @@ Soon
 + For developing and maintaining [HAN Toolbox](https://www.psx-place.com/resources/han-toolbox.628/)
 
 ### lmn7
-+ Offline HAN enabler
-+ Offline HAN SoftReboot
-+ Offline HAN + dev_flash mount
++ Javascript scripts
 
 ### ZenJB
 + The concept
 + XMB Remote Interaction Technique
+
+### DeViL303
++ CFW Power Options Concept
 
 <br>
 
